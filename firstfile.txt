@@ -1,2 +1,6 @@
 this is first commit
+<<<<<<< Updated upstream
 thi is my correction changes
+=======
+this is some changes to stash changes
+>>>>>>> Stashed changes
