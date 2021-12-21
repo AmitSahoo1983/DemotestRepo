@@ -1,2 +1,5 @@
 this is first commit
 thi is my correction changes
+colours
+fruits
+countries
