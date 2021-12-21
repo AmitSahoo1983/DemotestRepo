@@ -1,1 +1,8 @@
 This is my second file
+Lists of Animals
+Cow
+Tiger
+Dog
+Penguin
+Skylark
+Swan
